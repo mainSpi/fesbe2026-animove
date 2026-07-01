@@ -89,7 +89,7 @@ links:
       target: "_blank"
 
   - link:
-      icon: "fa-solid fa-github"
+      icon: "fa-brands fa-github"
       text: "Repositório Animove <span class='link-button-text'>(Github)</span>"
       url: "https://github.com/labmus-ufrj/Animove"
       alt: "Repositório do Animove no Github."
@@ -117,7 +117,7 @@ socials:
       alt: "Meu GitHub"
       target: "_blank"
   - social:
-      icon: "fa-brands fa-hurricane"
+      icon: "fa-solid fa-hurricane"
       url: "http://lattes.cnpq.br/8896434525014436"
       title: "Meu Lattes"
       alt: "Meu Lattes"
