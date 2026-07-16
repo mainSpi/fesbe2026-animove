@@ -66,7 +66,7 @@ tagline: >-
 links:
   - link:
       icon: "fa-solid fa-file-lines"
-      text: "Artigo Animove <span class='link-button-text'>(CMPB)</span>"
+      text: "Animove: a low-cost, easy-to-use, fast and high-resolution system to evaluate swimming performance in zebrafish <span class='link-button-text'>(CMPB)</span>"
       url: "https://doi.org/10.1016/j.cmpb.2026.109477"
       alt: "Artigo na CMPB sobre Animove."
       title: "Artigo Animove"
@@ -82,7 +82,7 @@ links:
 
   - link:
       icon: "fa-solid fa-circle-nodes"
-      text: "Documentação de Reprodutibilidade Animove"
+      text: "Reprodutibilidade Animove"
       url: "https://labmus-ufrj.github.io/Animove/guide/reproducibility/"
       alt: "Página da documentação de reprodutibilidade do Animove."
       title: "Documentação de reprodutibilidade do Animove"
@@ -90,7 +90,7 @@ links:
 
   - link:
       icon: "fa-brands fa-github"
-      text: "Repositório Animove <span class='link-button-text'>(Github)</span>"
+      text: "Github Animove <span class='link-button-text'>(Github)</span>"
       url: "https://github.com/labmus-ufrj/Animove"
       alt: "Repositório do Animove no Github."
       title: "Repositório Animove"
@@ -104,6 +104,13 @@ links:
       title: "Repositório Animove"
       target: "_blank"
 
+  - link:
+      icon: "fa-solid fa-circle-nodes"
+      text: "Currículo Lattes <span class='link-button-text'>(CNPq)</span>"
+      url: "http://lattes.cnpq.br/8896434525014436"
+      alt: "Currículo do Lattes."
+      title: "Currículo Lattes"
+      target: "_blank"
 
 
 # -----------------------------------------------------------------------------
@@ -115,12 +122,6 @@ socials:
       url: "https://github.com/mainSpi"
       title: "Meu GitHub"
       alt: "Meu GitHub"
-      target: "_blank"
-  - social:
-      icon: "fa-solid fa-hurricane"
-      url: "http://lattes.cnpq.br/8896434525014436"
-      title: "Meu Lattes"
-      alt: "Meu Lattes"
       target: "_blank"
   - social:
       icon: "fa-brands fa-instagram"
