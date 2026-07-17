@@ -105,7 +105,15 @@ links:
       target: "_blank"
 
   - link:
-      icon: "fa-solid fa-circle-nodes"
+      icon: "fa-solid fa-file-lines"
+      text: "Creatine increases muscle fiber size in embryonic chick muscle cells and age-dependent swimming performance in zebrafish <span class='link-button-text'>(Scientific Reports)</span>"
+      url: "https://www.nature.com/articles/s41598-026-41008-1"
+      alt: "Artigo na Scientific Reports."
+      title: "Artigo Creatina"
+      target: "_blank"
+
+  - link:
+      icon: "fa-solid fa-hurricane"
       text: "Currículo Lattes <span class='link-button-text'>(CNPq)</span>"
       url: "http://lattes.cnpq.br/8896434525014436"
       alt: "Currículo do Lattes."
